@@ -1,0 +1,17 @@
+- projeto Padrões camadas (Controllers, Services, Repositories, Dtos, Mapping)
+- Modelo de domínio e regras de negócio
+- Regra de idade
+- Regra de permissão hierárquica
+- Enum de papéis: Leader < Director
+- CRUD básico e Endpoints REST
+- Entity Framework Core
+- Autenticação JWT Bearer
+- Classe JwtSettings
+- Endpoints em AuthController
+- Testes unitários
+- xUnit, Moq, FluentAssertions
+- Uso de injeção de dependência
+- Docker / Containers
+- Swagger / OpenAPI
+- Front-end (Angular)
+- Tela login e employees
