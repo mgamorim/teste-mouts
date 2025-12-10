@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A225D8-3EF1-491D-B3B5-0963C3F0D81B}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A225D8-3EF1-491D-B3B5-0963C3F0D81B}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\dtos\\employeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\dtos\\employeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\mapping\\employeemappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\mapping\\employeemappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\models\\employeephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\models\\employeephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\services\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\services\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|c:\\users\\mauricio amorim\\onedrive\\\u00E1rea de trabalho\\monts ti\\teste tec\\backend\\employeemanagement.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF169660-CD22-405E-9267-D613B749BCA4}|EmployeeManagement.Api\\EmployeeManagement.Api.csproj|solutionrelative:employeemanagement.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 90,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:177:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:181:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:182:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:183:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:184:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:185:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:180:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:187:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:188:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:186:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:189:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:191:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:192:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:193:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:190:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:194:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:195:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:196:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:198:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:199:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:200:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:201:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Dtos\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Dtos\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Dtos\\AuthDtos.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Dtos\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:07:49.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Dtos\\EmployeeDtos.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Dtos\\EmployeeDtos.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Dtos\\EmployeeDtos.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Dtos\\EmployeeDtos.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvxUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:07:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeMappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Mapping\\EmployeeMappingExtensions.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Mapping\\EmployeeMappingExtensions.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Mapping\\EmployeeMappingExtensions.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Mapping\\EmployeeMappingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:07:42.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeePhone.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Models\\EmployeePhone.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Models\\EmployeePhone.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Models\\EmployeePhone.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Models\\EmployeePhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:07:35.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwJ4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:05:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeManagement.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T18:08:12.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Tests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "EmployeeManagement.Tests\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:06:29.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:07:52.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:08:07.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:08:16.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T18:08:24.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:07:32.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:07:28.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:07:24.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Services\\TokenService.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:06:23.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Services\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Services\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Services\\JwtSettings.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Services\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:06:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Api\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Mauricio Amorim\\OneDrive\\\u00C1rea de Trabalho\\monts ti\\teste tec\\backend\\EmployeeManagement.Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "EmployeeManagement.Api\\Services\\AuthService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:06:05.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

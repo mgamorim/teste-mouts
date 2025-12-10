@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: employee_db
+    environment:
+      SA_PASSWORD: "senha123"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql_data:/var/opt/mssql
+
+  api:
+    build:
+      context: ./backend/EmployeeManagement.Api
+    container_name: employee_api
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ConnectionStrings__DefaultConnection: "Server=db,1433;Database=EmployeeDb;User Id=sa;Password=senha123;Encrypt=False;"
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+
+volumes:
+  mssql_data:

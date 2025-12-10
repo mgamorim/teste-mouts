@@ -1,0 +1,26 @@
+<h2>Employees</h2>
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Doc</th>
+      <th>Role</th>
+      <th>Manager</th>
+      <th>Phones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let e of employees">
+      <td>{{ e.id }}</td>
+      <td>{{ e.firstName }} {{ e.lastName }}</td>
+      <td>{{ e.email }}</td>
+      <td>{{ e.docNumber }}</td>
+      <td>{{ e.role }}</td>
+      <td>{{ e.managerName || '-' }}</td>
+      <td>{{ e.phones.join(', ') }}</td>
+    </tr>
+  </tbody>
+</table>
